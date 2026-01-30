@@ -39,5 +39,3 @@ Link: https://www.youtube.com/watch?v=ICu8g9auh8E
 - **AI/ML integration** भविष्यातील personalization आणि user engagement वाढवण्यासाठी महत्त्वाचे आहे.  
 
 ---
-
-तुम्हाला हवं असेल तर मी याचं **मराठीत सोपं “Step-by-Step System Design Framework”** तयार करून देऊ शकतो, ज्याचा वापर तुम्ही इतर मुलाखतींसाठीही करू शकता. हवं का?
